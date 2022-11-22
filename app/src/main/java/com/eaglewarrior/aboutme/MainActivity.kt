@@ -23,12 +23,6 @@ class MainActivity : AppCompatActivity() {
         binding.myName = myName
 
         binding.doneBtn.setOnClickListener{addNickname(it)}
-
-        // Adds functionality to done_btn once clicked
-//        findViewById<Button>(R.id.done_btn).setOnClickListener{
-//            // Runs following code once button is clicked
-//            addNickname(it)
-//        }
     }
 
     // Adds name after Done Btn is clicked
