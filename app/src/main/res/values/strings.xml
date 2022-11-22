@@ -3,11 +3,16 @@
     <string name="name">John Wick!</string>
     <string name="yellow_star">yellow_star</string>
     <string name="long_txt_tv">Im John Wick.
-    \n\nI am a professional hitman.
-    \n\nSmiling is a waste of time.
-    \n\nPrecision with colts is awesome.
-    \nI can reload my weapons with one hand.
-    \n\nTraining made me awesome. And talent.</string>
+        \n\nI am a professional hitman.
+        \n\nSmiling is a waste of time.
+        \n\nPrecision with colts is awesome.
+        \nI can reload my weapons with one hand.
+        \n\nTraining made me awesome. And talent.
+        \n\nI am greeted by everyone as if they know me.  If I cared enough it would confuse me.
+        \n\nMy suits are really nice but I really do not care how they look; I am here to do my job.
+        \n\nReally nice cars get destroyed around me often.
+        \n\nThese movies and stories don\'t seem to care if I\'m happy or want a career change.
+        \n\nRainy nights are cool.</string>
     <string name="what_is_your_nickname">What is your Nickname?</string>
     <string name="done">Done</string>
 </resources>
